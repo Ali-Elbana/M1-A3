@@ -21,7 +21,10 @@ Ownership and resources Managements.
 
 #### 3. Set the file permissions to allow read and write access for the owner, and no access for group and others.
 
-  
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/5d951549-62c1-4a23-a159-d9be554e076d)
+
+#### 4. Change the ownership of the file to a different user.
+
 
 
 -------
