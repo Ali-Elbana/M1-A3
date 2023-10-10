@@ -25,6 +25,15 @@ Ownership and resources Managements.
 
 #### 4. Change the ownership of the file to a different user.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/815947e4-e769-4150-adf7-9ffbd5e580df)
+
+![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/75f5413f-08ba-4fd6-b42c-df25eb9b5250)
+
+![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/acd673dd-c2ba-4217-86e1-38b6717601cd)
+
+#### 5. Try accessing the file from the original and the different user accounts to observe the access permissions in action.
+
+
 
 
 -------
