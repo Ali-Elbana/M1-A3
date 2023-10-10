@@ -33,7 +33,9 @@ Ownership and resources Managements.
 
 #### 5. Try accessing the file from the original and the different user accounts to observe the access permissions in action.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/5f6a7409-2b38-4627-93b2-0c60fc227167)
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/6614d477-c740-44a0-b181-8aa7990d3e3f)
 
 
 -------
