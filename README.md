@@ -53,13 +53,35 @@ Ownership and resources Managements.
 
 ## Solution
 
+#### 1. Create a new user named user1.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/d22648a6-678c-4cfe-823a-7db7ecab8448)
 
+#### 2. Create a new group named group1.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/edcdcdff-e644-4a7e-800e-dd5feb693169)
 
+#### 3. Add user1 to group1.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/3161dc3f-3216-49da-b586-3026ffbcd3ec)
 
+#### 4. Change the ownership of secret.txt to user1 and group1.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/2a4fe878-0531-4276-8fad-186f0fdadf97)
+
+#### 5. Set the file permissions to allow read and write access for the owner and the group.
+
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/cc2431d3-11df-48e8-bf3a-386080188de7)
+
+#### 6. Test accessing the file both as user1 and a different user to understand group-based access control.
+
+ - As user1:
+
+    ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/7842ed09-4e92-4931-b47b-1133e0b5f4d6)
+
+ - As different user:
+
+   ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/c075a9a2-d526-4740-93ec-5f85abe54823)
 
 
 
