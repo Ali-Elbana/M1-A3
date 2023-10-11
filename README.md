@@ -59,6 +59,8 @@ Ownership and resources Managements.
 
 #### 2. Create a new group named group1.
 
+  ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/0507e531-6edd-429d-8a43-b8024df5214f)
+
   ![image](https://github.com/Ali-Elbana/M1-A3/assets/97269796/edcdcdff-e644-4a7e-800e-dd5feb693169)
 
 #### 3. Add user1 to group1.
